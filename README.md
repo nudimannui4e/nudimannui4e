@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nudimannui4e
-- 👀 I’m interested in Linux, python, docker
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Linux, ansible, docker, go
+- 🌱 I’m currently learning ansible
 - 📫 How to reach me: t.me/Dmitry_el
 
 <!---
